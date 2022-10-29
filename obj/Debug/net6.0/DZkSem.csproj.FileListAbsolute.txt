@@ -1,0 +1,15 @@
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\bin\Debug\net6.0\DZkSem.exe
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\bin\Debug\net6.0\DZkSem.deps.json
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\bin\Debug\net6.0\DZkSem.runtimeconfig.json
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\bin\Debug\net6.0\DZkSem.dll
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\bin\Debug\net6.0\DZkSem.pdb
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.dll
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\refint\DZkSem.dll
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.pdb
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\DZkSem.genruntimeconfig.cache
+C:\Users\alisa\OneDrive\Рабочий стол\DZkSem\obj\Debug\net6.0\ref\DZkSem.dll
